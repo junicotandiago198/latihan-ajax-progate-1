@@ -1,0 +1,14 @@
+.grid {
+  display: grid;
+}
+
+#pokemon {
+  /* display: flex; */
+  max-width: 150px;
+  text-align: center;
+  background-color: yellow;
+}
+
+button {
+  background-color: yellow;
+}
